@@ -8,6 +8,6 @@ I enjoy share and learned about **Data Science**, **Programming**,  **Machine Le
 - 🎓 Graduated in Production Engineering 
 - 🏢 Currently working at UHG/Amil Assistência Médica
 - 🌍 Living in São Paulo, Brazil
-- 📢 You can read more me on [LinkedIn](https://www.linkedin.com/in/marcos-de-morais-silva/)
+- 📢 You can read more about me on [LinkedIn](https://www.linkedin.com/in/marcos-de-morais-silva/)
 
 Feel free to contact me 😁!!
