@@ -2,7 +2,7 @@
 
 I'm Marcos de Morais and welcome to my GitHub profile. I upload all my codes in R and Python here that I've done during the Data Science training or just by curiosity as a challenge.
 
-I enjoy share and learned about **Data Science**, **Programming**,  **Machine Learning** and **Data Analysis** in general.
+I enjoy share and learn about **Data Science**, **Programming**,  **Machine Learning** and **Data Analysis** in general.
 
 - 💻 Data Analyst
 - 🎓 Graduated in Production Engineering 
