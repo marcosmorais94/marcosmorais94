@@ -10,6 +10,6 @@ Eu gosto compartilhar e aprender sobre **Data Science**, **programação**, **Ma
 - 🎓 Graduado em Engenharia de Produção  
 - 🏢 Trabalho atualamente na UHG/Amil Assistência Médica
 - 🌍 Residência em São Paulo, Brasil
-- 📢 Meu LinkedIn é: [LinkedIn](https://www.linkedin.com/in/marcos-de-morais-silva/)
+- 📢 Mais informações sobre mim estão no meu [LinkedIn](https://www.linkedin.com/in/marcos-de-morais-silva/)
 
 Fique à vontade para entrar em contato comigo 😁!!
