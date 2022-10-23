@@ -1,14 +1,15 @@
 ![0_GrXjSR4wjPVJQjqR](https://user-images.githubusercontent.com/91103250/196038687-5e0be0e0-b705-4795-84a8-f7251088d1c9.jpg)
-## Hi there 👋
+## Bem-vindo! 👋
 
-I'm Marcos de Morais and welcome to my GitHub profile. I upload all my codes in R, Python and SQL here that I've done during the Data Science training or just by curiosity as a challenge.
+Eu sou o Marcos e seja bem-vindo a minha página do GitHub. Uso essa espaço para compartilhar meus códigos em R, Python e SQL que fiz tanto durante a formação Cientista de Dados na Data Science Academy ou mesmo projetos pessoais para manter a prática.
 
-I enjoy share and learn about **Data Science**, **Programming**,  **Machine Learning** and **Data Analysis** in general.
 
-- 💻 Data Analyst
-- 🎓 Graduated in Production Engineering 
-- 🏢 Currently working at UHG/Amil Assistência Médica
-- 🌍 Living in São Paulo, Brazil
-- 📢 You can read more about me on [LinkedIn](https://www.linkedin.com/in/marcos-de-morais-silva/)
+Eu gosto compartilhar e aprender sobre **Data Science**, **programação**, **Machine Learning** e *Análise de Dados** no geral. 
 
-Feel free to contact me 😁!!
+- 💻 Analista de Dados
+- 🎓 Graduado em Engenharia de Produção  
+- 🏢 Trabalho atualamente na UHG/Amil Assistência Médica
+- 🌍 Residência em São Paulo, Brasil
+- 📢 Meu LinkedIn é: [LinkedIn](https://www.linkedin.com/in/marcos-de-morais-silva/)
+
+Fique à vontade para entrar em contato comigo 😁!!
