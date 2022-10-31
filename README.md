@@ -4,7 +4,7 @@
 Eu sou o Marcos e seja bem-vindo a minha página do GitHub. Uso essa espaço para compartilhar meus códigos em R, Python e SQL que fiz tanto durante a formação Cientista de Dados na Data Science Academy ou mesmo projetos pessoais para manter a prática.
 
 
-Eu gosto compartilhar e aprender sobre **Data Science**, **programação**, **Machine Learning** e *Análise de Dados** no geral. 
+Eu gosto compartilhar e aprender sobre **Data Science**, **programação**, **Machine Learning** e **Análise de Dados** no geral. 
 
 - 💻 Analista de Dados
 - 🎓 Graduado em Engenharia de Produção  
