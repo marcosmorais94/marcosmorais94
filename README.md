@@ -6,7 +6,7 @@ Eu sou o Marcos e seja bem-vindo a minha página do GitHub. Uso essa espaço par
 
 Eu gosto compartilhar e aprender sobre **Data Science**, **programação**, **Machine Learning** e **Análise de Dados** no geral. 
 
-- 💻 Analista de Dados
+- 💻 Analista de Dados Pleno
 - 🎓 Graduado em Engenharia de Produção  
 - 🏢 Trabalho atualamente na UHG/Amil Assistência Médica
 - 🌍 Residência em São Paulo, Brasil
