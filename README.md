@@ -19,14 +19,14 @@ Eu gosto compartilhar e aprender sobre **Data Science**, **Programação**, **Ma
 ### Estou Aprendendo:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50"/>
                 
-### Resumo do Portfólio
+### Resumo do Portfólio:
 <div>
 <a href="https://github.com/marcosmorais94">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosmorais94&layout=compact&langs_count=7&theme=dracula"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcosmorais94&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-### Atividade Diária no GitHub 
+### Atividade Diária no GitHub: 
 ![Snake animation](https://github.com/marcosmorais94/marcosmorais94/blob/output/github-contribution-grid-snake.svg)
  
 ### Contato 
