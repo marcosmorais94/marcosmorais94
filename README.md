@@ -31,4 +31,4 @@ Eu gosto compartilhar e aprender sobre **Data Science**, **Programação**, **Ma
 
 Fique à vontade para entrar em contato comigo 😁!!
  
-![Snake animation](https://github.com/{{marcosmorais94}}/{{marcosmorais94}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/marcosmorais94/marcosmorais94/blob/output/github-contribution-grid-snake.svg)
