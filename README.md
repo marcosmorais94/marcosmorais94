@@ -26,6 +26,7 @@ Eu gosto compartilhar e aprender sobre **Data Science**, **Programação**, **Ma
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcosmorais94&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+### Atividade Diária no GitHub 
 ![Snake animation](https://github.com/marcosmorais94/marcosmorais94/blob/output/github-contribution-grid-snake.svg)
  
 ### Contato 
