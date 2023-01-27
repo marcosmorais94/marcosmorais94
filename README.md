@@ -27,6 +27,8 @@ Eu gosto compartilhar e aprender sobre **Data Science**, **Programação**, **Ma
 </div>
 
  ### Contato 
-<a href="https://www.linkedin.com/in/marcos-de-morais-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/marcos-de-morais-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:marcos_morais_hotmail@marcosmorais94"><img src="https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=outlook&logoColor=blue" target="_blank"></a>  
 
 Fique à vontade para entrar em contato comigo 😁!!
+ 
+![Snake animation](https://github.com/marcosmorais94/marcosmorais94/blob/output/github-contribution-grid-snake.svg)
