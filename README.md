@@ -18,8 +18,15 @@ Eu gosto compartilhar e aprender sobre **Data Science**, **Programação**, **Ma
          
  ### Estou Aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="60" height="60"/>
-                 
-### Contato 
+                
+### Resumo do meu portfólio
+<div>
+<a href="https://github.com/marcosmorais94">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosmorais94&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosmorais94&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+ ### Contato 
 <a href="https://www.linkedin.com/in/marcos-de-morais-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 Fique à vontade para entrar em contato comigo 😁!!
