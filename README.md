@@ -31,4 +31,5 @@ Eu gosto compartilhar e aprender sobre **Data Science**, **Programação**, **Ma
 ### Contato 
 <a href="https://www.linkedin.com/in/marcos-de-morais-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-Fique à vontade para entrar em contato comigo 😁!!
+Fique à vontade para entrar em contato comigo!! 
+😁
