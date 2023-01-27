@@ -7,27 +7,28 @@ Meus scripts contém análises preditivas e explorátorias dos mais variados tem
 Eu gosto compartilhar e aprender sobre **Data Science**, **Programação**, **Machine Learning** e **Análise de Dados** no geral. 
 
 
-### Meu Resumo
+### Meu Resumo:
 - 💻 Analista de Dados Pleno
 - 🎓 Graduado em Engenharia de Produção  
 - 🏢 Trabalho atualamente na UHG/Amil Assistência Médica
 - 🌍 Residência em São Paulo, Brasil
 
-### Principais Habilidades
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
+### Principais Habilidades:
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
          
- ### Estou Aprendendo
+### Estou Aprendendo:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50"/>
                 
-### Resumo do meu portfólio
+### Resumo do Portfólio
 <div>
 <a href="https://github.com/marcosmorais94">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosmorais94&layout=compact&langs_count=7&theme=dracula"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcosmorais94&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
- ### Contato 
+![Snake animation](https://github.com/marcosmorais94/marcosmorais94/blob/output/github-contribution-grid-snake.svg)
+ 
+### Contato 
 <a href="https://www.linkedin.com/in/marcos-de-morais-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 Fique à vontade para entrar em contato comigo 😁!!
-![Snake animation](https://github.com/marcosmorais94/marcosmorais94/blob/output/github-contribution-grid-snake.svg)
