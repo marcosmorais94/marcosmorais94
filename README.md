@@ -1,12 +1,12 @@
 ![0_GrXjSR4wjPVJQjqR](https://user-images.githubusercontent.com/91103250/196038687-5e0be0e0-b705-4795-84a8-f7251088d1c9.jpg)
-## Bem-vindo! 👋
+## Bem-vindo(a)! 👋
 
 ![](https://komarev.com/ghpvc/?username=marcosmorais94&color=blueviolet&style=plastic&label=Visitas+no+Perfil:)
 
-Eu sou o Marcos e seja bem-vindo a minha página do GitHub. Uso essa espaço para compartilhar meus códigos em R, Python e SQL que faço para me manter ativo na comunidade de Ciência de Dados. 
-Meus scripts contém análises preditivas e explorátorias dos mais variados temas porque idenpendente da área os dados tem sempre algo para nos ensinar.
+Eu sou o Marcos e seja bem-vindo(a) a minha página do GitHub. Uso essa espaço para compartilhar meus códigos em R, Python e SQL que faço para me manter ativo na comunidade de Ciência de Dados. 
+Meus scripts contém análises preditivas e explorátorias dos mais variados temas porque independente da área os dados tem sempre algo para nos ensinar.
 
-Eu gosto compartilhar e aprender sobre **Data Science**, **Programação**, **Machine Learning** e **Análise de Dados** em geral. 
+Eu gosto de compartilhar e aprender sobre **Data Science**, **Programação**, **Machine Learning** e **Análise de Dados** em geral. 
 
 
 ### Meu Resumo:
