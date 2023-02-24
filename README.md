@@ -11,7 +11,7 @@ Eu gosto de compartilhar e aprender sobre **Data Science**, **Programação**, *
 
 ### Meu Resumo:
 - 💻 Analista de Dados Pleno
-- 🎓 Graduado em Engenharia de Produção  
+- 🎓 Formado em Engenharia de Produção  
 - 🏢 Trabalho atualamente na UHG/Amil Assistência Médica
 - 🌍 Residência em São Paulo, Brasil
 
