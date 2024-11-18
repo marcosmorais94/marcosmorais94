@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=marcosmorais94&color=blueviolet&style=plastic&label=Visitas+no+Perfil:)
 
-Eu sou o Marcos e seja bem-vindo(a) a minha página do GitHub. Uso essa espaço para compartilhar meus códigos em R, Python e SQL que faço para me manter ativo na comunidade de Ciência de Dados. 
+Seja bem-vindo(a) a minha página do GitHub. Uso essa espaço para compartilhar meus códigos em R, Python e SQL que faço para me manter ativo na comunidade de Ciência de Dados. 
 Meus scripts contém análises preditivas e explorátorias dos mais variados temas porque independente da área os dados tem sempre algo para nos ensinar.
 
 Eu gosto de compartilhar e aprender sobre **Data Science**, **Programação**, **Machine Learning** , **Inteligência Artificial** e **Análise de Dados**. 
